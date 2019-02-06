@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pet Search Task</string>
+    <string name="clear_filter">Search</string>
+    <string name="sort">Sort</string>
+</resources>
